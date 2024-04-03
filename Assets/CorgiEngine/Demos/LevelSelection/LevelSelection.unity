@@ -413,12 +413,15 @@ PrefabInstance:
     - target: {fileID: 114020057219366436, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Text
-      value: Level 6
+      value: 'Level 6: Try it kid!!!'
       objectReference: {fileID: 0}
     - target: {fileID: 114526695846891580, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Text
-      value: Daniel Oller
+      value: 'By Daniel Oller
+
+
+        Get all the coins to pass'
       objectReference: {fileID: 0}
     - target: {fileID: 114526828102552616, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
@@ -450,7 +453,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: a93367cdbfd7e2b4aafd24129e6adc12,
+      objectReference: {fileID: 21300000, guid: 86eb0dc597db0ef4389e5313ee8eb0ef,
         type: 3}
     - target: {fileID: 224709212819779422, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
@@ -1174,12 +1177,13 @@ PrefabInstance:
     - target: {fileID: 114020057219366436, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Text
-      value: Level 1
+      value: 'Level 1: Mechanics tutorial'
       objectReference: {fileID: 0}
     - target: {fileID: 114526695846891580, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Text
-      value: "Daniel P\xE9rez"
+      value: "By Daniel P\xE9rez\n\nSample and practice all the basic concepts of
+        the game"
       objectReference: {fileID: 0}
     - target: {fileID: 114526828102552616, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
@@ -1190,8 +1194,28 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: aec9e71dd64466549bad2c26b2c498fe,
+      objectReference: {fileID: 21300000, guid: 7806e69db577c0b4ca80523fef78e025,
         type: 3}
+    - target: {fileID: 224126503370116818, guid: 90948bd6e091f7346bc9853d09281e32,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 411.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 224126503370116818, guid: 90948bd6e091f7346bc9853d09281e32,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 284.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 224126503370116818, guid: 90948bd6e091f7346bc9853d09281e32,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 10.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 224126503370116818, guid: 90948bd6e091f7346bc9853d09281e32,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 217.13
+      objectReference: {fileID: 0}
     - target: {fileID: 224709212819779422, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Pivot.x
@@ -1960,12 +1984,15 @@ PrefabInstance:
     - target: {fileID: 114020057219366436, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Text
-      value: Level 5
+      value: 'Level 5: Busy maze'
       objectReference: {fileID: 0}
     - target: {fileID: 114526695846891580, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Text
-      value: Daniel Oller
+      value: 'By Daniel Oller
+
+
+        Test your reflexes against super fast enemies'
       objectReference: {fileID: 0}
     - target: {fileID: 114526828102552616, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
@@ -1997,7 +2024,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: be3bf3ef6c086194d863fca453a2940e,
+      objectReference: {fileID: 21300000, guid: 6ed7cdd3d2c2491429d8729239ad736c,
         type: 3}
     - target: {fileID: 224709212819779422, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
@@ -2721,12 +2748,12 @@ PrefabInstance:
     - target: {fileID: 114020057219366436, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Text
-      value: Level 3
+      value: 'Level 3: Strength test'
       objectReference: {fileID: 0}
     - target: {fileID: 114526695846891580, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Text
-      value: "Daniel P\xE9rez"
+      value: "By Daniel P\xE9rez\n\nTest yourself against adversity"
       objectReference: {fileID: 0}
     - target: {fileID: 114526828102552616, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
@@ -2758,8 +2785,18 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 734b01721319bd448a5cb71cf39df36b,
+      objectReference: {fileID: 21300000, guid: 32d7780c60dc21f4899f5b3fc783452b,
         type: 3}
+    - target: {fileID: 224126503370116818, guid: 90948bd6e091f7346bc9853d09281e32,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.0754365
+      objectReference: {fileID: 0}
+    - target: {fileID: 224126503370116818, guid: 90948bd6e091f7346bc9853d09281e32,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 170.1
+      objectReference: {fileID: 0}
     - target: {fileID: 224709212819779422, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Pivot.x
@@ -2968,12 +3005,13 @@ PrefabInstance:
     - target: {fileID: 114020057219366436, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Text
-      value: Level 2
+      value: 'Level 2: Dangerous climbing'
       objectReference: {fileID: 0}
     - target: {fileID: 114526695846891580, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Text
-      value: "Daniel P\xE9rez"
+      value: "By Daniel P\xE9rez\n\nFinish knowing the mechanics and putting them
+        into practice"
       objectReference: {fileID: 0}
     - target: {fileID: 114526828102552616, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
@@ -3005,8 +3043,23 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 88ff8506498b42c46a03b31a277f1afa,
+      objectReference: {fileID: 21300000, guid: 8692e5755009f5e4885178756c4ca894,
         type: 3}
+    - target: {fileID: 224126503370116818, guid: 90948bd6e091f7346bc9853d09281e32,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.0129112
+      objectReference: {fileID: 0}
+    - target: {fileID: 224126503370116818, guid: 90948bd6e091f7346bc9853d09281e32,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2798944
+      objectReference: {fileID: 0}
+    - target: {fileID: 224126503370116818, guid: 90948bd6e091f7346bc9853d09281e32,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 190
+      objectReference: {fileID: 0}
     - target: {fileID: 224709212819779422, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Pivot.x
@@ -3187,12 +3240,16 @@ PrefabInstance:
     - target: {fileID: 114020057219366436, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Text
-      value: Level 4
+      value: 'Level 4:  Simple Puzzle'
       objectReference: {fileID: 0}
     - target: {fileID: 114526695846891580, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Text
-      value: Daniel Oller
+      value: 'By Daniel Oller
+
+
+        Test the mechanics of accumulation and your
+        resolution capacity'
       objectReference: {fileID: 0}
     - target: {fileID: 114526828102552616, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
@@ -3224,7 +3281,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 518a4618b2dc87848830bb72bd82c935,
+      objectReference: {fileID: 21300000, guid: b1271f1fd9f594944b15ce864da08161,
         type: 3}
     - target: {fileID: 224709212819779422, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
