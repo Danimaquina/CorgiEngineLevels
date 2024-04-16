@@ -19,7 +19,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"C:/Users/danie/Desktop/Escritorio/Grado superior/M15/Ejercicios/Corgi_DanielPérez;C:/Users/danie/Desktop/Corgi_DanielPérez;;;;;;;;\"}"
+                "value": "{\"m_Value\":\"C:/Users/danie/Desktop/Escritorio/Grado superior/M01/UF4/Corgi_levels;C:/Users/danie/Desktop/Escritorio/Grado superior/M01/UF4/Build;C:/Users/danie/Desktop/Escritorio/Grado superior/M01/UF4;C:/Users/danie/Desktop/Escritorio/Grado superior/M15/Ejercicios/Corgi_DanielPérez;C:/Users/danie/Desktop/Corgi_DanielPérez;;;;;\"}"
             }
         ]
     }
