@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/CorgiEngine/Demos/RetroAdventure/RetroAdventureLevelSelection.unity
     guid: a70302a2680553d40a0f9d57ee57ca5b
+  - enabled: 1
+    path: Assets/CorgiEngine/Demos/LevelSelection/LevelSelection.unity
+    guid: 38b3bbb0fec788241870d54b46b03e47
   - enabled: 1
     path: Assets/My levels/True Levels/Level 1.unity
     guid: ae3a0deb43836a7428f0f42bfdff90ab
@@ -29,21 +32,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/My levels/Prova nivell 2D.unity
     guid: b843ad2868d972441ae7847b5c389c33
-  - enabled: 0
+  - enabled: 1
     path: Assets/CorgiEngine/Demos/StartScreen/SplashScreen.unity
     guid: 7b96552fd1198fa4eaae54a2f975645e
   - enabled: 1
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/LoadingScreen.unity
     guid: 888394d52616e5e42b3b54c3f2bbd3eb
-  - enabled: 0
+  - enabled: 1
     path: Assets/CorgiEngine/Demos/StartScreen/StartScreen.unity
     guid: b9cf7e391a5874f80a0485164885fe54
-  - enabled: 1
+  - enabled: 0
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreen.unity
     guid: d89b77a7a68c1844280c6ff2e49f95b8
-  - enabled: 0
-    path: Assets/CorgiEngine/Demos/LevelSelection/LevelSelection.unity
-    guid: 38b3bbb0fec788241870d54b46b03e47
   - enabled: 0
     path: Assets/CorgiEngine/Demos/LevelSelection/LevelSelectionMap.unity
     guid: 0bba9bfc439ed1f458ec61e4c0008ebd
